@@ -21,5 +21,9 @@
 .tacol{
     border: 1px solid black;
     text-align: center;
+<<<<<<< HEAD
     background: #000;
+=======
+    padding: auto;
+>>>>>>> parent of 58871d1 (t3)
 }
